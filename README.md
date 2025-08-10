@@ -1,2 +1,1 @@
-# NamedEntity
-Professional NamedEntityRecognition namedentityrecognition-engine with NamedEntityRecognition-optimized cloud-ready and enterprise namedentityrecognition-optimization capabilities
+.
